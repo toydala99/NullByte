@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528939286220",
+    "project_id": "nullbyte-music-player",
+    "storage_bucket": "nullbyte-music-player.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528939286220:android:a14b84b6b31a65e8994c69",
+        "android_client_info": {
+          "package_name": "com.example.nullbytemusicplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528939286220-hp0qhapkofer8c1h1uhpdf6ae3uas946.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-gM92CgXUD3OLsfyozVXw0CMfA9w5XUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528939286220-hp0qhapkofer8c1h1uhpdf6ae3uas946.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
